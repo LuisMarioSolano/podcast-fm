@@ -62,7 +62,7 @@
         display: inline-block;
         margin-top: 5rem;
         color: $colorTexto;
-        @include m.tablet {
+        @include tablet {
             margin-top: 0;
         }
     
